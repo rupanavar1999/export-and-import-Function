@@ -1,3 +1,3 @@
 const text = require("./exportFunction.js");
 
-console.log(text);
+console.log("This is a Function");
